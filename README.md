@@ -6,17 +6,16 @@
 [![GitHub stars](https://img.shields.io/github/stars/rajgupta321/E-Commerce-Shoes-App?style=social)](https://github.com/rajgupta321/E-Commerce-Shoes-App/stargazers)  
 [![GitHub forks](https://img.shields.io/github/forks/rajgupta321/E-Commerce-Shoes-App?style=social)](https://github.com/rajgupta321/E-Commerce-Shoes-App/network/members)  
 
-A **Flutter-based mobile and web application** designed for showcasing shoes in a clean and modern shopping interface.  
-The project mainly focuses on **UI/UX** and **animations** using Flutter’s core features.  
+A Flutter-based mobile and web application designed for showcasing shoes in a clean and modern shopping interface. The project focuses on UI/UX and animations using Flutter’s core features.  
 
 ---
 
 ## ✨ Features
 
 - Beautiful UI for browsing shoes  
-- Product detail screens (with images, description, and price)  
+- Product detail screens (with images, description, price)  
 - Smooth animations using **animate_do** package  
-- Responsive design that works on **Android**, **iOS**, and **Web**  
+- Responsive design that runs on Android, iOS, and Web (default Flutter platform support)  
 
 ---
 
@@ -36,25 +35,18 @@ The project mainly focuses on **UI/UX** and **animations** using Flutter’s cor
    ```bash
    git clone https://github.com/rajgupta321/E-Commerce-Shoes-App.git
    cd E-Commerce-Shoes-App
-Install dependencies:
+2. Install dependencies:
+   ```bash
+  flutter pub get
+1. Run the app:
+   ```bash
+  flutter run
+   To run on web:
+   ```bash
+   flutter run -d chrome
 
-bash
-Copy code
-flutter pub get
-Run the app:
-
-bash
-Copy code
-flutter run
-To run on web:
-
-bash
-Copy code
-flutter run -d chrome
 📂 Project Structure
-bash
-Copy code
-.
+  .
 ├── android/          # Android native files
 ├── ios/              # iOS native files
 ├── web/              # Web support
@@ -67,40 +59,41 @@ Copy code
 │   └── main.dart     # Entry point
 ├── test/             # Unit & widget tests
 ├── pubspec.yaml      # Dependencies & assets config
-└── README.md         # Project documentation
+└── README.md
 🤝 Contributing
-Contributions are welcome!
 
-Fork the repo
 
-Create a new branch (feature/your-feature-name)
+---
 
-Commit your changes with clear messages
+## 🤝 Contributing
+1. Contributions are welcome!
+2. Fork the repo
+3. Create a new branch (feature/your-feature-name)
+4. Commit your changes with clear messages
+5. Push to your branch and create a Pull Request
 
-Push to your branch and create a Pull Request
+---
 
-⚠️ Known Issues
-Payment/checkout flow not yet implemented
+## ⚠️ Known Issues
+1. Payment/checkout flow not yet implemented
+2. Some layouts may require further responsiveness adjustments
 
-Some layouts may require further responsiveness adjustments
+---
 
-🔮 Future Enhancements
-Backend integration (authentication, product database, payments)
+## 🔮 Future Enhancements
+1. Backend integration (authentication, product database, payments)
+2. Advanced product filtering and search
+3. Dark mode support
+4. Push notifications for offers and updates
 
-Advanced product filtering and search
+---
 
-Dark mode support
-
-Push notifications for offers and updates
-
-📄 License
+## 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
 
-📬 Contact
-Author: Raj Gupta
+---
 
-GitHub: rajgupta321
-
-Email: officialrajgupta12@gmail.com
-
-
+## 📬 Contact
+1. Author: Raj Gupta  
+2. GitHub: [rajgupta321](https://github.com/rajgupta321)  
+3. Email: officialrajgupta12@gmail.com
