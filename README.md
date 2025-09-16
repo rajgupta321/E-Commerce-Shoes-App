@@ -45,24 +45,6 @@ A Flutter-based mobile and web application designed for showcasing shoes in a cl
    ```bash
    flutter run -d chrome
 
-📂 Project Structure
-  .
-├── android/          # Android native files
-├── ios/              # iOS native files
-├── web/              # Web support
-├── assets/           # App images and static files
-│   └── images/
-├── lib/              # Main Flutter source code
-│   ├── models/       # Data models
-│   ├── screens/      # App screens (Home, Details, Cart, etc.)
-│   ├── widgets/      # Reusable UI widgets
-│   └── main.dart     # Entry point
-├── test/             # Unit & widget tests
-├── pubspec.yaml      # Dependencies & assets config
-└── README.md
-🤝 Contributing
-
-
 ---
 
 ## 🤝 Contributing
