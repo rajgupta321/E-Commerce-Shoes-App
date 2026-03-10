@@ -9,6 +9,20 @@
 A Flutter-based mobile and web application designed for showcasing shoes in a clean and modern shopping interface. The project focuses on UI/UX and animations using Flutter’s core features.  
 
 ---
+## 📸 Screenshots
+
+<table>
+<tr>
+<td><img src="screenshots/sh_1.jpg" width="200"/></td>
+<td><img src="screenshots/sh_2.jpg" width="200"/></td>
+<td><img src="screenshots/sh_3.jpg" width="200"/></td>
+<td><img src="screenshots/sh_4.jpg" width="200"/></td>
+<td><img src="screenshots/sh_5.jpg" width="200"/></td>
+<td><img src="screenshots/sh_6.jpg" width="200"/></td>
+</tr>
+</table>
+
+---
 
 ## ✨ Features
 
